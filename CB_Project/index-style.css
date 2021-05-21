@@ -1,0 +1,17 @@
+
+
+body
+{
+    background: #FAFAFA 0% 0% no-repeat padding-box;
+}
+
+.container
+{
+    position: relative;
+    top: 80px;
+    left: 0px;
+    width: 1440px;
+    height: 900px;
+    opacity: 1;
+}
+
