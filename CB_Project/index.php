@@ -44,6 +44,10 @@ if (isset($_GET['logout'])) {
             min-width: 5px; 
             margin-right: 10px;
         }
+        .logout
+        {
+            text-align: right;
+        }
     </style>
 
 
@@ -106,7 +110,7 @@ if (isset($_GET['logout'])) {
 
             <div>
                 <div class="logout">
-                    <a href="index.php?logout='1'">Sign Out</a>
+                    <a href="index.php?logout='1'" >Sign Out</a>
                 </div>
                 <span class="title" style="font-size: 40px; font-weight:bolder;">
 
